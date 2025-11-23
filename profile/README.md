@@ -5,7 +5,7 @@ This is the official GitHub repository of the COMPACT (*C*ollaboration for *O*bs
 
 ### Public Codes and Repositories: 
 
-1. **[CMBtopology](https://github.com/CompactCollaboration/TopologyPy)**: A Python package for computing CMB covariance matrices for non-trivial topologies (E1–E10).
+1. **[CMBtopology]([https://github.com/CompactCollaboration/TopologyPy](https://github.com/CompactCollaboration/CMBtopology))**: A Python package for computing CMB covariance matrices for non-trivial topologies (E1–E10).
 2. **[EOT_FDSearch](https://github.com/CompactCollaboration/EOT_FDSearch)**: a code for determining the fraction of points in a given fundamental domain (for orientable Euclidean topologies) in which the observers would detect matched circle pairs. Used to derive the results in [Cosmic topology. Part I. Limits on orientable Euclidean manifolds from circle searches](https://iopscience.iop.org/article/10.1088/1475-7516/2023/01/030).
 3. **[Topology Plots](https://github.com/CompactCollaboration/TopologyPlots)**: plots for the set of generators corresponding to each of the Euclidean topologies (E1-E18).
 4. **Codes for temperature correlation matrixes**: codes for calculating temperature autocorrelation matrices and harmonic space realizations for orientable Euclidean topologies. **In progress**.
